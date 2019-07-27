@@ -1,7 +1,10 @@
+### This Repository [Link](https://github.com/1MT3J45/DataScience101)
+
 ### Presentation Deck Links
   1. [Microsoft Tay](https://en.wikipedia.org/wiki/Tay_(bot))
   1. [Beyond Sight D<sup>3</sup>M](https://www.sciencealert.com/ai-simulates-the-universe-and-not-even-its-creators-know-how-it-s-so-accurate)
   1. Sagemaker [Pricing](https://aws.amazon.com/sagemaker/pricing/)
+  1. Sagemaker [Algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
   
 ### Data Sources
   1. [UCI Repo](http://archive.ics.uci.edu/ml/index.php)
